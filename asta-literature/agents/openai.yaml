@@ -1,0 +1,12 @@
+interface:
+  display_name: "Asta Literature"
+  short_description: "Find papers, trace citations and check evidence"
+  default_prompt: "Use $asta-literature to research my question and link the supporting papers."
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "asta"
+      description: "Ai2 Asta Scientific Corpus Tool"
+      transport: "streamable_http"
+      url: "https://asta-tools.allen.ai/mcp/v1"
