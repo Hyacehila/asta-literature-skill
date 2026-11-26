@@ -76,4 +76,4 @@ export ASTA_TOOL_KEY
 
 ## 署名与许可
 
-文献检索使用 Allen Institute for Artificial Intelligence（Ai2）提供的 Asta Scientific Corpus Tool。服务许可适用于学术和非商业科研。在使用服务的网站或应用上标注 Asta 来源，在相关发表物中致谢并按审批要求引用 AstaBench。Skill 改编自 Ai2 的三份官方工作流，采用 Apache-2.0 许可。 [来源与改编说明](asta-literature/NOTICES.md) · [Apache-2.0](LICENSE) · [服务许可](https://allenai.org/asta-corpus-license/2025-08-26) · [AstaBench 论文](https://arxiv.org/abs/2510.21652)
+文献检索使用 Allen Institute for Artificial Intelligence（Ai2）提供的 Asta Scientific Corpus Tool。服务许可适用于学术和非商业科研。
